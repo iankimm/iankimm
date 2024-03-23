@@ -1,8 +1,5 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello, my name is Ian!👋&center=true&size=30">
-  </a>
-</h1>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+My+name+is+Ian!%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 <!--
 **iankimm/iankimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
