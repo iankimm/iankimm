@@ -4,7 +4,15 @@
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/iankimm/" title="LinkedIn Profile"><img width="22" src="https://store-images.s-microsoft.com/image/apps.31120.9007199266245564.44dc7699-748d-4c34-ba5e-d04eb48f7960.bc4172bd-63f0-455a-9acd-5457f44e4473"> LinkedIn</a></code>
 </h5>
-
+<p align="center">
+  Hello, my name is Ian Kim, Full stack Software Engineer 💻
+  <br>
+  App Academy graduate 🎓
+  <br>
+  I am deeply committed to refining my coding proficiency through consistent daily practice.
+  <br>
+  Very passionate for learning new languages and advancing my coding skills 🔥
+</p>
 <hr>
 
 <h2 align="center">🌱 Languages & Frameworks & Tools & Abilities</h2>
