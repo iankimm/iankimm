@@ -1,5 +1,5 @@
-<a href="https://git.io/typing-svg">
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+My+name+is+Ian!%F0%9F%91%8B" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+My+name+is+Ian!%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/iankimm/" title="LinkedIn Profile"><img width="22" src="https://store-images.s-microsoft.com/image/apps.31120.9007199266245564.44dc7699-748d-4c34-ba5e-d04eb48f7960.bc4172bd-63f0-455a-9acd-5457f44e4473"> LinkedIn</a></code>
